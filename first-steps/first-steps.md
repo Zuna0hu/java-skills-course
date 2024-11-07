@@ -2,7 +2,7 @@
 This folder contains materials covering basic concepts in Java, including Hello World, variables, primitive types, type casting, operators, operands, expressions, and more.
 
 ## How to Use the Files
-The folder includes JShell scripts. To use them, download the `.jsh` file and load it into JShell by running the following command:
+The folder includes JShell scripts. To use them, download the `.jsh` file and load it into JShell by running the following command directly in Linux terminal:
 ```bash
 jshell < myscript.jsh
 ```
